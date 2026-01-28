@@ -22,7 +22,6 @@ a2/
 ├── parser_transitions.py    # Transition-based parsing algorithms (original)
 ├── run.py                   # Main training script (modified: added result saving)
 ├── evaluate.py              # ⭐ ADDED: Standalone evaluation script
-├── practice.py              # ⭐ ADDED: Practice/learning scripts
 ├── utils/
 │   ├── parser_utils.py      # Parser utilities and data loading (original)
 │   └── general_utils.py     # General utility functions (original)
@@ -137,4 +136,6 @@ Results are automatically saved to:
 - `results/<timestamp>/test_results.txt` ⭐ - Test UAS scores (auto-saved feature)
 - `results/<timestamp>/model.weights` - Trained model weights (original)
 
-**Note:** The automatic result saving feature (⭐) was added by me and is not part of the original assignment.
+**Note:** 
+- The automatic result saving feature (⭐) was added by me and is not part of the original assignment.
+- AI help me write this README
